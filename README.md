@@ -3,6 +3,8 @@
 **A decision workflow for supply chain analysts: see which open orders are at risk, compare what can be
 done about each, assign the action, record what happened, and check whether it worked.**
 
+**[Try the live dashboard](https://supplylens-control-tower.streamlit.app)** — runs in your browser on simulated data, nothing to install.
+
 Built on the [SupplyLens](https://github.com/MDABDURRAUF/supplylens) analytics package. SupplyLens
 predicts and explains disruptions; the Control Tower turns those predictions into tracked decisions and
 measures the result against a baseline.
