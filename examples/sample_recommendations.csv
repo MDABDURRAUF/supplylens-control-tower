@@ -1,0 +1,17 @@
+order_id,priority,stage,vendor,sku,quantity,goods_value,value_at_risk,recommendation,kind,expected_saving,risk_before,risk_after,main_reason
+PO-102878,Medium,pending release,Vendor J,APP-005,601,14129.51,359.06853050741165,Split 50/50 with Vendor G,split,23.10993770792811,0.1727931520397653,0.17183754880743607,the large order size (601 units)
+PO-100879,Low,pending release,Vendor F,HOM-004,272,9057.599999999999,123.9080701870078,Split 50/50 with Vendor J,split,144.20435860587168,0.1367009703619082,0.1328300691381714,deliveries to the West
+PO-100033,Medium,pending release,Vendor G,HOM-004,174,5496.66,98.92877112337803,Change carrier to Summit Logistics,carrier,34.71128075788056,0.17769729127850933,0.0834411424400941,carrier BlueFreight
+PO-103529,Medium,pending release,Vendor G,HOM-005,86,2801.8799999999997,93.97822224284691,Change carrier to Summit Logistics,carrier,21.482918603599956,0.23941286359039987,0.1170818904104558,carrier BlueFreight
+PO-103514,Medium,pending release,Vendor A,APP-004,126,2899.26,86.50445086355707,Change supplier to Vendor G,supplier,83.55131796361547,0.23437986114403728,0.1626948697261798,carrier BlueFreight
+PO-105158,Medium,pending release,Vendor B,APP-006,133,3195.9900000000002,77.59749848221438,Change supplier to Vendor G,supplier,47.424394597993796,0.2183154784613692,0.163946778728862,carrier BlueFreight
+PO-104005,Low,pending release,Vendor F,HOM-006,142,5049.52,42.515842201688734,Split 50/50 with Vendor J,split,83.33176586889931,0.07857190956661256,0.07716346232417119,the large order size (142 units)
+PO-103522,Medium,pending release,Vendor J,PAC-004,752,1872.4800000000002,38.98996060106897,Change carrier to RoadLink,carrier,28.662989373900473,0.19043539078721536,0.13853936697882782,the large order size (752 units)
+PO-101854,Medium,pending release,Vendor F,RAW-006,99,1603.8,30.63103229935607,Change carrier to RoadLink,carrier,1.1013785469399409,0.16641392665279423,0.12009297874030216,carrier BlueFreight
+PO-101668,Medium,pending release,Vendor H,APP-006,41,944.64,24.3881648991881,Change carrier to Summit Logistics,carrier,4.459484876372926,0.25213546420101396,0.17201379511887582,Vendor H's delivery record
+PO-105747,High,pending release,Vendor H,RAW-004,42,593.88,21.565737961338986,Change supplier to Vendor G,supplier,5.615634452786253,0.35736659308424173,0.14576394883296334,Vendor H's delivery record
+PO-101655,Low,pending release,Vendor F,RAW-003,59,854.32,12.409230038288749,Change carrier to RoadLink,carrier,0.7232543982380548,0.13655661204220745,0.09757358873504415,carrier BlueFreight
+PO-104704,Low,pending release,Vendor D,RAW-005,113,1722.1200000000001,11.550786324625221,Change carrier to RoadLink,carrier,10.456532919059782,0.04879012324753078,0.03387885826605947,carrier BlueFreight
+PO-100665,Low,pending release,Vendor F,PAC-005,151,397.13,7.09630787872704,Change carrier to RoadLink,carrier,3.810375627646522,0.10392847759616408,0.0734673279133499,carrier BlueFreight
+PO-100463,Low,pending release,Vendor J,PAC-003,117,285.48,5.261977135512177,Change carrier to RoadLink,carrier,3.1202343832671318,0.12459910469378269,0.08867902645245168,carrier BlueFreight
+PO-101548,Low,pending release,Vendor A,PAC-002,58,139.2,1.3503074884491395,Change supplier to Vendor I,supplier,3.2690684177228775,0.09369580865797604,0.07637013356771638,Vendor A's delivery record
