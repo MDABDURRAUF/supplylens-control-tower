@@ -1,0 +1,8 @@
+# Dependencies for running the dashboard (streamlit run app.py),
+# used by Streamlit Community Cloud. For development use: pip install -e ".[app,dev]"
+supplylens @ https://github.com/MDABDURRAUF/supplylens/archive/refs/heads/main.zip
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+streamlit>=1.50
+plotly>=5.20
